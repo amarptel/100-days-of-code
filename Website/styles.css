@@ -1,0 +1,17 @@
+.navbar {
+    background-color: white;
+    float: right;
+    width: 50%;
+    text-align:right;
+}
+
+.navbar a{
+    color: black;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 120%;
+    margin-right: 10px;
+}
+
+
+
