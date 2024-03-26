@@ -1,17 +1,46 @@
 .navbar {
-    background-color: white;
-    float: right;
-    width: 50%;
-    text-align:right;
-}
+    background: white;
+    height: 70px;
+    width: 100%;
+  }
 
-.navbar a{
+  .navbar ul{
+    float: right;
+    margin-right: 30px;
+  }
+
+  .navbar ul li {
+    display: inline-block;
+    border-radius:  7px;
+    margin-right: 20px;
+  }
+
+  .navbar ul li a{
     color: black;
     font-family: Montserrat;
-    font-weight: 500;
-    font-size: 120%;
-    margin-right: 10px;
-}
+    font-weight: 600;
+    text-decoration: none;
+    font-size: larger;
+    display: inline-block;
+  }
 
+  .navbar ul li a:hover::before {
+    position: absolute;
+    content: attr(data-link-alt);
+    top: 100%;
+    opacity: 0;
+    transition: 1s;
+  }
 
+  .navbar ul li a:hover::after {
+    transform: translateY(-100%);
+    color: #ec5564;
+  }
+  .logo {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: -55px;
+    left: 40px;
+  }
 
