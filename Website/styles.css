@@ -2,41 +2,50 @@
     background: white;
     height: 70px;
     width: 100%;
+    position: fixed;
+    top: 0;
   }
 
-  .navbar ul{
+.navbar ul{
     float: right;
     margin-right: 30px;
-  }
+}
 
-  .navbar ul li {
+.navbar ul li {
     display: inline-block;
     border-radius:  7px;
     margin-right: 20px;
-  }
+}
 
-  .navbar ul li a{
-    color: black;
+.navbar ul li a{
+    color: red;
     font-family: Montserrat;
     font-weight: 600;
     text-decoration: none;
     font-size: larger;
-    display: inline-block;
-  }
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
 
-  .navbar ul li a:hover::before {
+span{
+    color: black;
+    display: block;
+    transition: 1s;
+}
+a:hover span{
+    transform: translateY(-100%);
+    color: red;
+}
+
+a::before {
     position: absolute;
     content: attr(data-link-alt);
     top: 100%;
     opacity: 0;
     transition: 1s;
-  }
-
-  .navbar ul li a:hover::after {
-    transform: translateY(-100%);
-    color: #ec5564;
-  }
-  .logo {
+}
+.logo {
     width: 200px;
     height: 200px;
     position: absolute;

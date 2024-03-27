@@ -15,3 +15,10 @@ Day 2: March 25th, 2024
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
 
+Day 3: March 26th, 2024
+
+**Today's Progress**: Learning how to add a transition to nav items.
+
+**Thoughts:**: I've learnt about the hover before and after parameters of css and have successfully made my original text navigate upwards (translateY). However, I am dealing with an issue where the new text isn't rotating upwards and taking the place of my old text. This is something I will try to learn about tomorrow and fix. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
