@@ -22,3 +22,12 @@ Day 3: March 26th, 2024
 **Thoughts:**: I've learnt about the hover before and after parameters of css and have successfully made my original text navigate upwards (translateY). However, I am dealing with an issue where the new text isn't rotating upwards and taking the place of my old text. This is something I will try to learn about tomorrow and fix. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+
+Day 4: March 27th, 2024
+
+**Today's Progress**: Successfully added in a transition to navbar items. 
+
+**Thoughts:**: Used a tutorial to add in a transition for my navbar items. I understand it better than I did yesterday, but still not as much as I'd like. I looked up documentation on position and display, which I sort of understand, but am still finding it hard to picture. Completely understand translate and hover now. I want to add in a button in my navbar where my resume can be downloaded, without any tutorial, just good old googling and my own intuition. That is tomorrow's goal.
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website

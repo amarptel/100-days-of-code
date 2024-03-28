@@ -18,33 +18,39 @@
 }
 
 .navbar ul li a{
-    color: red;
     font-family: Montserrat;
     font-weight: 600;
     text-decoration: none;
     font-size: larger;
     display: block;
-    position: relative;
     overflow: hidden;
+    position: relative;
 }
 
-span{
+.navbar ul li a span{
     color: black;
-    display: block;
-    transition: 1s;
-}
-a:hover span{
-    transform: translateY(-100%);
-    color: red;
+    display: block; 
 }
 
-a::before {
+.navbar ul li a::after {
+    color: red;
     position: absolute;
     content: attr(data-link-alt);
     top: 100%;
     opacity: 0;
     transition: 1s;
 }
+
+.navbar ul li a:hover::after {
+    top: 0;
+    opacity: 1;
+}
+
+
+.navbar ul li a:hover span{
+    transform: translateY(-100%);
+}
+
 .logo {
     width: 200px;
     height: 200px;
