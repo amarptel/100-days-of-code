@@ -12,3 +12,5 @@ Successfully added in a navbar with a logo.
 Learning how to add transitions to navbar items. 
 ### R1D4
 Successfully added in a transition to my navbar items.
+### R1D4
+Successfully added in a downloadble resume link to navbar. 

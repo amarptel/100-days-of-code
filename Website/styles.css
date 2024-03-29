@@ -6,9 +6,10 @@
     top: 0;
   }
 
-.navbar ul{
+.navigation{
     float: right;
     margin-right: 30px;
+    display: flex;
 }
 
 .navbar ul li {
@@ -19,7 +20,7 @@
 
 .navbar ul li a{
     font-family: Montserrat;
-    font-weight: 600;
+    font-weight: 800;
     text-decoration: none;
     font-size: larger;
     display: block;
@@ -33,7 +34,7 @@
 }
 
 .navbar ul li a::after {
-    color: red;
+    color: #B26407;
     position: absolute;
     content: attr(data-link-alt);
     top: 100%;
@@ -59,3 +60,6 @@
     left: 40px;
   }
 
+.navigation li:last-child a{
+    font-weight: 500;
+}

@@ -31,3 +31,11 @@ Day 4: March 27th, 2024
 **Thoughts:**: Used a tutorial to add in a transition for my navbar items. I understand it better than I did yesterday, but still not as much as I'd like. I looked up documentation on position and display, which I sort of understand, but am still finding it hard to picture. Completely understand translate and hover now. I want to add in a button in my navbar where my resume can be downloaded, without any tutorial, just good old googling and my own intuition. That is tomorrow's goal.
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 4: March 28th, 2024
+
+**Today's Progress**: Successfully added a link in navbar which opens my resume. 
+
+**Thoughts:**: Intially thought I'd have to create a button and add an onclick function via javascript that would donwload my resume, but found that there is an href and download utility in HTML5, which assisted my in adding the link to the navbar. Tried to work on various ways of styling and figured out how to individually style individual elements in the li tag. Will design my the resume button nicely in my navbar. Also found out my logo overflows the navbar, so I will want to adjust that. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
