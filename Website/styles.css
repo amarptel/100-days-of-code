@@ -1,11 +1,14 @@
+/* Navbar navigation settings. */
 .navbar {
     background: white;
     height: 70px;
     width: 100%;
     position: fixed;
     top: 0;
+    margin: 0px;
   }
 
+/* Pushing all the ul items to the right. */
 .navigation{
     float: right;
     margin-right: 30px;
@@ -18,9 +21,11 @@
     margin-right: 20px;
 }
 
+/* Setting display for all the a tags. */
 .navbar ul li a{
-    font-family: Montserrat;
-    font-weight: 800;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
     text-decoration: none;
     font-size: larger;
     display: block;
@@ -28,11 +33,13 @@
     position: relative;
 }
 
+/* Initial colour and display of nav items. */
 .navbar ul li a span{
     color: black;
     display: block; 
 }
 
+/* Once the navbar is clicked, it will transition to a different colour. */
 .navbar ul li a::after {
     color: #B26407;
     position: absolute;
@@ -47,11 +54,12 @@
     opacity: 1;
 }
 
-
+/* When the navbar is hovered on, the text will translate 100% on the y-axis. */
 .navbar ul li a:hover span{
     transform: translateY(-100%);
 }
 
+/* Logo settings. */
 .logo {
     width: 200px;
     height: 200px;
@@ -60,6 +68,27 @@
     left: 40px;
   }
 
+/* Since the last item of my navbar was a link to my resume, I wanted it to look differently, 
+so added some different display settings. */
 .navigation li:last-child a{
+    color: black;
     font-weight: 500;
+    border: 3px solid blue;
+    padding: 5px;
+    top: -9px;
+}
+
+/* On hover the resume will turn this colour.  */
+.navigation li:last-child a:hover{
+    color: #ec5564;
+}
+
+.homepage {
+    margin-top: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.aboutme {
+    height: 200px;
 }

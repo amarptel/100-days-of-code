@@ -32,10 +32,18 @@ Day 4: March 27th, 2024
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
 
-Day 4: March 28th, 2024
+Day 5: March 28th, 2024
 
 **Today's Progress**: Successfully added a link in navbar which opens my resume. 
 
 **Thoughts:**: Intially thought I'd have to create a button and add an onclick function via javascript that would donwload my resume, but found that there is an href and download utility in HTML5, which assisted my in adding the link to the navbar. Tried to work on various ways of styling and figured out how to individually style individual elements in the li tag. Will design my the resume button nicely in my navbar. Also found out my logo overflows the navbar, so I will want to adjust that. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 6: March 29th, 2024
+
+**Today's Progress**: Added in styling and css to resume link, changed font of navbar and learned about the HTML5 sections in preperation for creating the main content of my webpage. 
+
+**Thoughts:**: Lots of manual adjusting here with the styling, but I am getting through it. Wonder if it would've been easier if I used something like bootstrap, but alas I am here and will continue with what I've started. Added in some basic content for my webpage and researched the HTML5 layout. Will want to finish the home section styling in the near future!
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
