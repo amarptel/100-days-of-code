@@ -47,3 +47,11 @@ Day 6: March 29th, 2024
 **Thoughts:**: Lots of manual adjusting here with the styling, but I am getting through it. Wonder if it would've been easier if I used something like bootstrap, but alas I am here and will continue with what I've started. Added in some basic content for my webpage and researched the HTML5 layout. Will want to finish the home section styling in the near future!
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 7: March 30th, 2024
+
+**Today's Progress**: Changed styling to a background colour that I like and chose a font for the home section of my webpage. 
+
+**Thoughts:**: Continuing to learn about styling and trying to figure out how I want my homepage to look and learning how to adjust the css to that. My goal for tomorrow is to position the text correctly and add in logos of github and linked-in that redirect the user to those links. Also want them to light up on hover. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website

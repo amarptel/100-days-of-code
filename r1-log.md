@@ -16,3 +16,5 @@ Successfully added in a transition to my navbar items.
 Successfully added in a downloadble resume link to navbar. 
 ### R1D6
 Styled navbar resume link with css and began main content development. 
+### R1D7
+Changed navbar font size, changed background of webpage and added in a nice font for my homepage section.
