@@ -55,3 +55,11 @@ Day 7: March 30th, 2024
 **Thoughts:**: Continuing to learn about styling and trying to figure out how I want my homepage to look and learning how to adjust the css to that. My goal for tomorrow is to position the text correctly and add in logos of github and linked-in that redirect the user to those links. Also want them to light up on hover. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 7: March 31st, 2024
+
+**Today's Progress**: Repositioned text on homepage to where I wanted it and added in icons to my socials. 
+
+**Thoughts:**: Found a cool website that allows me to use their logos, so I was able to get them onto the homescreen of my webpage and adjust them to the size I like. I was able to change the github icon to change colour on hover and the linked-in icon to an extent, but not the twitter icon yet. This is my next challenge along with redirecting the user on-click of my icons to their respective webpages. Learned a lot about padding also. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
