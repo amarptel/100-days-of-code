@@ -20,3 +20,5 @@ Styled navbar resume link with css and began main content development.
 Changed navbar font size, changed background of webpage and added in a nice font for my homepage section.
 ### R1D8
 Adjusted homepage text to a better place, and added in icons, while successfully changing the colour of one on hover. 
+### R1D9
+Adjusted homepage text again to be centered, added in logos changing on hover and redirecting the user to my respective links. Also adjusted the width aspect ratio.

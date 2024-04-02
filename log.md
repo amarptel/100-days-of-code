@@ -56,10 +56,18 @@ Day 7: March 30th, 2024
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
 
-Day 7: March 31st, 2024
+Day 8: March 31st, 2024
 
 **Today's Progress**: Repositioned text on homepage to where I wanted it and added in icons to my socials. 
 
 **Thoughts:**: Found a cool website that allows me to use their logos, so I was able to get them onto the homescreen of my webpage and adjust them to the size I like. I was able to change the github icon to change colour on hover and the linked-in icon to an extent, but not the twitter icon yet. This is my next challenge along with redirecting the user on-click of my icons to their respective webpages. Learned a lot about padding also. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 9: April 1st, 2024
+
+**Today's Progress**: Successfully changed the icons to change colour on hover and added links in, so when the icons are clicked, they redirect one to my portion of the specific webpage. 
+
+**Thoughts:**: Honestly, fixing the logo hover issue I had yesterday was very easy, just took a neutral logo and added the correct colour to it, then added in a hover function via css. Had an indication of how to redirect the user on click of the icons, and added that in too, which was a breeze. Spent most of today researching how I want my the homepage of my website to look and I've figured it out. Want to add in a bounce to my name (individual letters) and a rotating list of things I am/like which transition in and out slowly. That is the goal for the next few days. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
