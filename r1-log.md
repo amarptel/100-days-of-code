@@ -22,3 +22,5 @@ Changed navbar font size, changed background of webpage and added in a nice font
 Adjusted homepage text to a better place, and added in icons, while successfully changing the colour of one on hover. 
 ### R1D9
 Adjusted homepage text again to be centered, added in logos changing on hover and redirecting the user to my respective links. Also adjusted the width aspect ratio.
+### R1D10
+Researched and found a couple ways to reveal one letter at a time and am trying to implement it with javascript. 

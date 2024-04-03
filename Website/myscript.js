@@ -1,20 +1,15 @@
-// Wrap every letter in a span
-var textWrapper = document.querySelector('.myname');
-textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+var text = document.getElementById('myname')
 
-anime.timeline({loop: true})
-  .add({
-    targets: '.myname .letter',
-    scale: [4,1],
-    opacity: [0,1],
-    translateZ: 0,
-    easing: "easeOutExpo",
-    duration: 950,
-    delay: (el, i) => 70*i
-  }).add({
-    targets: '.myname',
-    opacity: 0,
-    duration: 1000,
-    easing: "easeOutExpo",
-    delay: 1000
-  });
+var textElements = text.split.map(function(c) {
+    return $('<span id="' + c + '">' + c + '</span>');
+});
+
+var el = $('#letters');
+var delay = 50; // Tune this for different letter delays.
+textElements.forEach(function(e, i) {
+  el.append(e);
+  e.hide();
+  setTimeout(function() {
+    e.fadeIn(300)
+  }, 100 + i * delay)
+})

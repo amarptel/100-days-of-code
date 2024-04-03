@@ -71,3 +71,11 @@ Day 9: April 1st, 2024
 **Thoughts:**: Honestly, fixing the logo hover issue I had yesterday was very easy, just took a neutral logo and added the correct colour to it, then added in a hover function via css. Had an indication of how to redirect the user on click of the icons, and added that in too, which was a breeze. Spent most of today researching how I want my the homepage of my website to look and I've figured it out. Want to add in a bounce to my name (individual letters) and a rotating list of things I am/like which transition in and out slowly. That is the goal for the next few days. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 9: April 2nd, 2024
+
+**Today's Progress**: Researched a bunch of different methods to reveal one letter of text at a time for my name and I believe I found a javascript and css way to do so. 
+
+**Thoughts:**: Spent most of my time trying to make the javascript method work, but was unable to do so today. I think I could get the css method to work fairly easily, but since I'd like to learn javascript as well, I want to try and do it using that method. Will continue to work on this tomorrow. Also, I found that the revolving/rotating text that I want, is called morphing text. Will hope to add that in soon as well. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
