@@ -98,6 +98,7 @@ so added some different display settings. */
     padding-top: 300px;
     padding-bottom: 500px;
     text-align: center;
+    font-family: "Arimo", sans-serif;
 }
 
 /* Homepage heading display settings. */
@@ -183,3 +184,25 @@ so added some different display settings. */
     background-color: white;
 }
 
+/* Styling the rotating content. */
+#descriptions {
+	color: white;
+    font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Want the text to spin linearlly infinitely.  */
+#morphing-text:after {
+	content: "";
+	animation: spin 10s linear infinite;
+}
+
+/* Adding rotating text that I want on the homepage. */
+@keyframes spin {
+    0% {content: "Fullstack Developer";}
+    25% {content: "Avid Lifter";}
+    50% {content: "#LeafsForever";}
+    100% {content: "Data Enthusiast";}
+}

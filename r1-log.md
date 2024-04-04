@@ -24,3 +24,5 @@ Adjusted homepage text to a better place, and added in icons, while successfully
 Adjusted homepage text again to be centered, added in logos changing on hover and redirecting the user to my respective links. Also adjusted the width aspect ratio.
 ### R1D10
 Researched and found a couple ways to reveal one letter at a time and am trying to implement it with javascript. 
+### R1D11
+Added a JavaScript function that allows the letters of my name to appear one by one, when the homepage is first opened. Also, added in spinning text for descriptions!

@@ -1,15 +1,15 @@
-var text = document.getElementById('myname')
+// Setting two const values
 
-var textElements = text.split.map(function(c) {
-    return $('<span id="' + c + '">' + c + '</span>');
-});
+// Retreiving the myname element from the h1 tag with id myname. 
+const monNom = document.getElementById('myname')
+// Setting a constant to "Amar Patel!"
+const nameText = 'Amar' + '\xa0' + 'Patel!';
 
-var el = $('#letters');
-var delay = 50; // Tune this for different letter delays.
-textElements.forEach(function(e, i) {
-  el.append(e);
-  e.hide();
-  setTimeout(function() {
-    e.fadeIn(300)
-  }, 100 + i * delay)
-})
+// For loop to make each letter appear, one at a time. 
+for (let i = 0; i < nameText.length; i++) {
+    setTimeout(() => {
+    // Incrementing each letter to the inner text.
+    monNom.innerText += nameText[i];
+    // Setting time delay interval.
+    }, i * 175);
+}

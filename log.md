@@ -72,10 +72,18 @@ Day 9: April 1st, 2024
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
 
-Day 9: April 2nd, 2024
+Day 10: April 2nd, 2024
 
 **Today's Progress**: Researched a bunch of different methods to reveal one letter of text at a time for my name and I believe I found a javascript and css way to do so. 
 
 **Thoughts:**: Spent most of my time trying to make the javascript method work, but was unable to do so today. I think I could get the css method to work fairly easily, but since I'd like to learn javascript as well, I want to try and do it using that method. Will continue to work on this tomorrow. Also, I found that the revolving/rotating text that I want, is called morphing text. Will hope to add that in soon as well. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 11: April 3rd, 2024
+
+**Today's Progress**: Added a JavaScript function that allows the letters of my name to appear one by one, when the homepage is first opened. I believe I understand how it is working to a degree. Also was able to add in the rotating text!
+
+**Thoughts:**: Seriously made some good progress today and added in exactly what I wanted for my homepage. I think I am getting better at researching what I want and implementing it - or I just got really lucky today. CSS is really becoming understood by me, which is great! Want to dive into JS and understand it just as much. Tomorrow's goal is solely styling my homepage, so I can move on to the "about" section in the near future. Also, need to fix the transition from the first section of text to the second as it is a quicker transition then the rest. Additionally, want to add in a fading in/out feature when the text is spinning. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
