@@ -8,7 +8,7 @@ body {
 
 /* Navbar navigation settings. */
 .navbar {
-    background-color: #121212;
+    background-color: #77B0AA;
     height: 70px;
     width: 100%;
     position: fixed;
@@ -30,11 +30,11 @@ body {
 
 /* Setting display for all the a tags. */
 .navbar ul li a{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
+    font-family: 'Anek Odia', sans-serif;
+    font-weight: 600;
     font-style: normal;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 21px;
     display: block;
     overflow: hidden;
     position: relative;
@@ -92,28 +92,28 @@ so added some different display settings. */
 
 /* Setting display settings for the homepage section. */
 .homepage{
-    background-color: #121212;
+    background-color: #77B0AA;
     height: 100%;
     width: auto;
     padding-top: 300px;
     padding-bottom: 500px;
-    text-align: center;
-    font-family: "Arimo", sans-serif;
+    padding-left: 250px;
+    text-align: left;
+    font-family: 'Anek Odia', sans-serif;
 }
 
 /* Homepage heading display settings. */
 .homepage h3{
-    font-family: "Arimo", sans-serif;
-    font-size: 30px;
+    font-size: 50px;
+    font-weight: 200;
     margin: 0;
-    color: #E2DBD4;
+    color: #E3FEF7;
 }
 
 .homepage h1{
-    font-family: "Arimo", sans-serif;
-    font-size: 80px;
+    font-size: 100px;
     margin: 0;
-    color: #E2DBD4;
+    color: #003C43;
 }
 
 .homepage h1 .letter {
@@ -184,25 +184,26 @@ so added some different display settings. */
     background-color: white;
 }
 
-/* Styling the rotating content. */
-#descriptions {
-	color: white;
-    font-size: 20px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
 
-/* Want the text to spin linearlly infinitely.  */
+/* Styling the rotating content.
+/* #descriptions {
+	color: white;
+    font-size: 40px;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+} */
+
+/* Want the text to spin linearlly infinitely. 
 #morphing-text:after {
 	content: "";
 	animation: spin 10s linear infinite;
 }
 
 /* Adding rotating text that I want on the homepage. */
-@keyframes spin {
+/* @keyframes spin {
     0% {content: "Fullstack Developer";}
     25% {content: "Avid Lifter";}
     50% {content: "#LeafsForever";}
     100% {content: "Data Enthusiast";}
-}
+} */

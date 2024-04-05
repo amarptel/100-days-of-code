@@ -87,3 +87,11 @@ Day 11: April 3rd, 2024
 **Thoughts:**: Seriously made some good progress today and added in exactly what I wanted for my homepage. I think I am getting better at researching what I want and implementing it - or I just got really lucky today. CSS is really becoming understood by me, which is great! Want to dive into JS and understand it just as much. Tomorrow's goal is solely styling my homepage, so I can move on to the "about" section in the near future. Also, need to fix the transition from the first section of text to the second as it is a quicker transition then the rest. Additionally, want to add in a fading in/out feature when the text is spinning. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 12: April 4th, 2024
+
+**Today's Progress**: Removed spinning text, thought it was too much right now, may add it back later. Worked on homepage styling and found a found that I like and will use for my website. 
+
+**Thoughts:**: Styling is legitimately the most meticulous part of this website building and as I'm going along, I'm figuring out how I want the website to look. It's fun but can be tedious. Want to add in a description tomorrow about myself and continue to work on styling. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
