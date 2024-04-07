@@ -28,3 +28,5 @@ Researched and found a couple ways to reveal one letter at a time and am trying 
 Added a JavaScript function that allows the letters of my name to appear one by one, when the homepage is first opened. Also, added in spinning text for descriptions!
 ### R1D12
 Worked on CSS styling for homepage.
+### R1D13
+Reduced margins between text on homepage and worked on the navbar being translucent upon scrolling.

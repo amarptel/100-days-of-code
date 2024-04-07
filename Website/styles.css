@@ -8,7 +8,7 @@ body {
 
 /* Navbar navigation settings. */
 .navbar {
-    background-color: #77B0AA;
+    background-color: #31363F;
     height: 70px;
     width: 100%;
     position: fixed;
@@ -42,13 +42,13 @@ body {
 
 /* Initial colour and display of nav items. */
 .navbar ul li a span{
-    color: #E2DBD4;
+    color: #EEEEEE;
     display: block; 
 }
 
 /* Once the navbar is clicked, it will transition to a different colour. */
 .navbar ul li a::after {
-    color: #FF6100;
+    color: #76ABAE;
     position: absolute;
     content: attr(data-link-alt);
     top: 100%;
@@ -75,29 +75,16 @@ body {
     left: 40px;
   }
    */
-/* Since the last item of my navbar was a link to my resume, I wanted it to look differently, 
-so added some different display settings. */
-.navigation li:last-child a{
-    color: #E2DBD4;
-    font-weight: 500;
-    border: 3px solid blue;
-    padding: 5px;
-    top: -9px;
-}
 
-/* On hover the resume will turn this colour.  */
-.navigation li:last-child a:hover{
-    color: #ec5564;
-}
 
 /* Setting display settings for the homepage section. */
 .homepage{
-    background-color: #77B0AA;
+    background-color: #31363F;
     height: 100%;
     width: auto;
     padding-top: 300px;
     padding-bottom: 500px;
-    padding-left: 250px;
+    padding-left: 200px;
     text-align: left;
     font-family: 'Anek Odia', sans-serif;
 }
@@ -106,19 +93,26 @@ so added some different display settings. */
 .homepage h3{
     font-size: 50px;
     font-weight: 200;
-    margin: 0;
+    margin-bottom: -40px;
     color: #E3FEF7;
 }
 
 .homepage h1{
     font-size: 100px;
-    margin: 0;
-    color: #003C43;
+    margin: 0px;
+    color: #76ABAE;
+    margin-bottom: -70px;
 }
 
 .homepage h1 .letter {
     display: inline-block;
     line-height: 1em;
+}
+
+.homepage p {
+    color: #E3FEF7;
+    font-size: 20px;
+    margin-bottom: 0px;
 }
 
 /* Github icon settings. */
@@ -139,7 +133,7 @@ so added some different display settings. */
 
 /* Github icon to change colour on hover. */
 .mdi--github:hover {
-    background-color: #FF6100;
+    background-color: #76ABAE;;
 }
 
 /* LinkedIn icon settings.  */
@@ -207,3 +201,10 @@ so added some different display settings. */
     50% {content: "#LeafsForever";}
     100% {content: "Data Enthusiast";}
 } */
+
+.aboutme {
+    background-color: #31363F;
+    font-family: 'Anek Odia', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 500px;
+}

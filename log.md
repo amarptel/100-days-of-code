@@ -95,3 +95,11 @@ Day 12: April 4th, 2024
 **Thoughts:**: Styling is legitimately the most meticulous part of this website building and as I'm going along, I'm figuring out how I want the website to look. It's fun but can be tedious. Want to add in a description tomorrow about myself and continue to work on styling. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 13: April 5th, 2024
+
+**Today's Progress**: Continued to work on homepage styling and was able to finally to reduce the margin between the text. Also, I'm working on making the navbar translucent upon scrolling down.
+
+**Thoughts:**: Almost done styling the homepage, might want to add a bit more text and potentially an image but aside from that I think it's pretty good. Tried to figfure out a way to make the navbar transparent, so the text can be slightly seen as the user scrolls down. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website

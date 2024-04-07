@@ -12,4 +12,18 @@ for (let i = 0; i < nameText.length; i++) {
     monNom.innerText += nameText[i];
     // Setting time delay interval.
     }, i * 175);
-}
+};
+
+
+// Making navbar translucent on scroll.
+$(window).scroll(function() {
+    var scrollTop = $(this).scrollTop();
+
+        $('.navbar').css({
+        opacity: function() {
+            var elementHeight = $(this).height(),
+            opacity = 1
+            return opacity;
+        }
+    });
+});
