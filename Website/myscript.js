@@ -16,14 +16,12 @@ for (let i = 0; i < nameText.length; i++) {
 
 
 // Making navbar translucent on scroll.
-$(window).scroll(function() {
-    var scrollTop = $(this).scrollTop();
+windows.onscroll = function() {translucentNav()};
 
-        $('.navbar').css({
-        opacity: function() {
-            var elementHeight = $(this).height(),
-            opacity = 1
-            return opacity;
-        }
-    });
-});
+function translucentNav() {
+    if (document.body.scrollTop > 50) {
+        document.getElementById("navbar").className = "reduced-opacity";
+    } else {
+        document.getElementById("navbar").className = "";
+    }
+}

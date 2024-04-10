@@ -76,13 +76,17 @@ body {
   }
    */
 
+/* Reducing opacity on scroll. */
+.reduced-opacity {
+    opacity: 0.5;
+}
 
 /* Setting display settings for the homepage section. */
 .homepage{
     background-color: #31363F;
     height: 100%;
     width: auto;
-    padding-top: 300px;
+    padding-top: 250px;
     padding-bottom: 500px;
     padding-left: 200px;
     text-align: left;
@@ -91,8 +95,8 @@ body {
 
 /* Homepage heading display settings. */
 .homepage h3{
-    font-size: 50px;
-    font-weight: 200;
+    font-size: 5cqb;
+    font-weight: 300;
     margin-bottom: -40px;
     color: #E3FEF7;
 }
@@ -111,7 +115,7 @@ body {
 
 .homepage p {
     color: #E3FEF7;
-    font-size: 20px;
+    font-size: 22px;
     margin-bottom: 0px;
 }
 

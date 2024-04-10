@@ -103,3 +103,11 @@ Day 13: April 5th, 2024
 **Thoughts:**: Almost done styling the homepage, might want to add a bit more text and potentially an image but aside from that I think it's pretty good. Tried to figfure out a way to make the navbar transparent, so the text can be slightly seen as the user scrolls down. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 14: April 10th, 2024
+
+**Today's Progress**: Learned more vanilla JS today and made a bit of progress trying to make my navbar translucent when scrolling. 
+
+**Thoughts:**: Took a 5 day haitus, but now am back and will be consistent daily. Today was mostly spent on research and learning a bit of JS.
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
