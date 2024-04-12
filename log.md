@@ -111,3 +111,12 @@ Day 14: April 10th, 2024
 **Thoughts:**: Took a 5 day haitus, but now am back and will be consistent daily. Today was mostly spent on research and learning a bit of JS.
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 15: April 11th, 2024
+
+**Today's Progress**: Was able to make the navbar translucent upon scrolling, directly using css in javascript!! Learned that I can directly implement css in JS and had a refresher around padding and margins. 
+
+
+**Thoughts:**: Turns out I didn't need it though, as I could just set the background colour and opacity of the navbar with rgba. This allows the text in the navbar to stay bold and it doesn't lose opacity when scrolling, while the navbar is always at 0.5 opacity. Made some good progress though! Want to add in a logo and add a bit more text on the homepage, then move on to the about section. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website

@@ -30,3 +30,7 @@ Added a JavaScript function that allows the letters of my name to appear one by 
 Worked on CSS styling for homepage.
 ### R1D13
 Reduced margins between text on homepage and worked on the navbar being translucent upon scrolling.
+### R1D14
+Researched ways to change navbar opacity after a certain amount of pixels have been scrolled.
+### R1D15
+Was able to change opacity of navbar, so the text is visible when scrolling.

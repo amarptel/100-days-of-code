@@ -15,13 +15,17 @@ for (let i = 0; i < nameText.length; i++) {
 };
 
 
-// Making navbar translucent on scroll.
-windows.onscroll = function() {translucentNav()};
 
-function translucentNav() {
-    if (document.body.scrollTop > 50) {
-        document.getElementById("navbar").className = "reduced-opacity";
-    } else {
-        document.getElementById("navbar").className = "";
-    }
-}
+
+// // Making navbar translucent on scroll.
+// $(document).scroll(function() {
+//     var value=$(document).scrollTop();
+
+//         if (value > 50) {
+//             document.getElementById("navbar").style.opacity = 0.5;
+//             document.getElementById("letters").style.opacity = 1;
+//         } else {
+//             document.getElementById("navbar").style.opacity = 1;
+//         }
+// });
+

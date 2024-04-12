@@ -8,7 +8,7 @@ body {
 
 /* Navbar navigation settings. */
 .navbar {
-    background-color: #31363F;
+    background: rgba(49, 54, 63, 0.5);
     height: 70px;
     width: 100%;
     position: fixed;
@@ -67,19 +67,15 @@ body {
 }
 
 /* Logo settings. */
-/* .logo {
+.logo {
     width: 200px;
     height: 200px;
     position: absolute;
     top: -55px;
     left: 40px;
   }
-   */
+  
 
-/* Reducing opacity on scroll. */
-.reduced-opacity {
-    opacity: 0.5;
-}
 
 /* Setting display settings for the homepage section. */
 .homepage{
