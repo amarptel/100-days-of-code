@@ -120,3 +120,12 @@ Day 15: April 11th, 2024
 **Thoughts:**: Turns out I didn't need it though, as I could just set the background colour and opacity of the navbar with rgba. This allows the text in the navbar to stay bold and it doesn't lose opacity when scrolling, while the navbar is always at 0.5 opacity. Made some good progress though! Want to add in a logo and add a bit more text on the homepage, then move on to the about section. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 16: April 11th, 2024
+
+**Today's Progress**: Added in a nice logo border and text. Just need to center and style text in border and my logo will be complete, so my homepage will be done.
+
+
+**Thoughts:**: Did quite a bit of research and learned how to create a nice logo border, but for some reason was not able to center the text at all. Will do this tomorrow.
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website

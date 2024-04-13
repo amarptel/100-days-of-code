@@ -9,7 +9,7 @@ body {
 /* Navbar navigation settings. */
 .navbar {
     background: rgba(49, 54, 63, 0.5);
-    height: 70px;
+    height: 80px;
     width: 100%;
     position: fixed;
     top: 0;
@@ -68,12 +68,25 @@ body {
 
 /* Logo settings. */
 .logo {
-    width: 200px;
-    height: 200px;
-    position: absolute;
-    top: -55px;
-    left: 40px;
+    width: 50px;
+    height: 50px;
+    border: 8px solid #EEEEEE;
+    border-style: outset;
+    margin-top: 10px;
+    margin-left: 175px;
+    display: inline-block;
+    line-height: 50px;
+    /* Changed the square border to a more curved version. */
+    border-radius: 25%;
   }
+
+/* Styling text inside logo. */
+.logo p {
+    font-family: 'Anek Odia', sans-serif;
+    color: #76ABAE;
+    font-size: 24px;
+    text-align: center;
+}
   
 
 
@@ -84,14 +97,14 @@ body {
     width: auto;
     padding-top: 250px;
     padding-bottom: 500px;
-    padding-left: 200px;
+    padding-left: 250px;
     text-align: left;
     font-family: 'Anek Odia', sans-serif;
 }
 
 /* Homepage heading display settings. */
 .homepage h3{
-    font-size: 5cqb;
+    font-size: 50px;
     font-weight: 300;
     margin-bottom: -40px;
     color: #E3FEF7;
