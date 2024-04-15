@@ -121,11 +121,19 @@ Day 15: April 11th, 2024
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
 
-Day 16: April 11th, 2024
+Day 16: April 12th, 2024
 
 **Today's Progress**: Added in a nice logo border and text. Just need to center and style text in border and my logo will be complete, so my homepage will be done.
 
 
 **Thoughts:**: Did quite a bit of research and learned how to create a nice logo border, but for some reason was not able to center the text at all. Will do this tomorrow.
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 17: April 13th, 2024
+
+**Today's Progress**: Centered text in my logo and adjusted letter sizing with css. I am happy with it! Homepage is done for now, started to work on about section. 
+
+**Thoughts:**: Tried a bunch of different ways to center the text in my logo, but nothing was working, so I went with old fashioned padding. It may have to do with my method of styling the navbar, as I feel I brute forced some things as a result of not completely understanding flexbox and css as a whole. I will continue to learn about them. I think my logo looks really nice. Also worked on the about section - added in a description of myself and an image, but need to choose a new image as I'm not happy with how my image looks right now. Will continue working and styling the about section tomorrow. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website

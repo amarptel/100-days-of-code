@@ -36,3 +36,5 @@ Researched ways to change navbar opacity after a certain amount of pixels have b
 Was able to change opacity of navbar, so the text is visible when scrolling.
 ### R1D16
 Added in logo border and worked on styling and centering logo text.
+### R1D17
+Completed logo and homepage.

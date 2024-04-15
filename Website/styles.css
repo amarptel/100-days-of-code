@@ -75,17 +75,23 @@ body {
     margin-top: 10px;
     margin-left: 175px;
     display: inline-block;
-    line-height: 50px;
-    /* Changed the square border to a more curved version. */
+    /* Changed the square border to a curved version. */
     border-radius: 25%;
+    text-align: center;
   }
 
+/* Removing line from logo. */
+.logo a {
+    text-decoration: none;
+}
+
 /* Styling text inside logo. */
-.logo p {
+.logo-name p {
     font-family: 'Anek Odia', sans-serif;
+    font-weight: 600;
     color: #76ABAE;
-    font-size: 24px;
-    text-align: center;
+    font-size: 28px;
+    margin-top: 8px;
 }
   
 
@@ -107,7 +113,7 @@ body {
     font-size: 50px;
     font-weight: 300;
     margin-bottom: -40px;
-    color: #E3FEF7;
+    color: #EEEEEE;
 }
 
 .homepage h1{
@@ -123,7 +129,7 @@ body {
 }
 
 .homepage p {
-    color: #E3FEF7;
+    color: #EEEEEE;
     font-size: 22px;
     margin-bottom: 0px;
 }
@@ -191,33 +197,28 @@ body {
     background-color: white;
 }
 
-
-/* Styling the rotating content.
-/* #descriptions {
-	color: white;
-    font-size: 40px;
-	display: flex;
-	justify-content: left;
-	align-items: center;
-} */
-
-/* Want the text to spin linearlly infinitely. 
-#morphing-text:after {
-	content: "";
-	animation: spin 10s linear infinite;
-}
-
-/* Adding rotating text that I want on the homepage. */
-/* @keyframes spin {
-    0% {content: "Fullstack Developer";}
-    25% {content: "Avid Lifter";}
-    50% {content: "#LeafsForever";}
-    100% {content: "Data Enthusiast";}
-} */
-
 .aboutme {
     background-color: #31363F;
     font-family: 'Anek Odia', sans-serif;
     padding-top: 20px;
     padding-bottom: 500px;
+}
+
+.aboutme h1{
+    text-align: center;
+    color: #EEEEEE;
+    font-size: 44px;
+}
+
+.aboutme p {
+    margin: 0;
+    color:#EEEEEE;
+    font-size: 16px;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
 }
