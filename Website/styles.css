@@ -4,6 +4,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: #31363F;
 }
 
 /* Navbar navigation settings. */
@@ -210,15 +211,23 @@ body {
     font-size: 44px;
 }
 
+
+.aboutmecontent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 .aboutme p {
     margin: 0;
     color:#EEEEEE;
-    font-size: 16px;
-    text-align: center;
+    font-size: 18px;
+    width: 30%;
 }
 
-img {
+.mypic {
     border-radius: 50%;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
 }

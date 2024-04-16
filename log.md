@@ -137,3 +137,11 @@ Day 17: April 13th, 2024
 **Thoughts:**: Tried a bunch of different ways to center the text in my logo, but nothing was working, so I went with old fashioned padding. It may have to do with my method of styling the navbar, as I feel I brute forced some things as a result of not completely understanding flexbox and css as a whole. I will continue to learn about them. I think my logo looks really nice. Also worked on the about section - added in a description of myself and an image, but need to choose a new image as I'm not happy with how my image looks right now. Will continue working and styling the about section tomorrow. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 18: April 14th, 2024
+
+**Today's Progress**: Added content of about section and an image of myself. Centered content, will continue to work on styling the about me section.   
+
+**Thoughts:**: Originally had multiple p tags to contain the text portion of the about me section, so I could have the correct width of the text on the page, but then added all the text into one p tag and it worked, as I just needed to set the width in CSS. Also, had a bit of trouble horizontally aligning the text and image, but through research, found how to do it! Thanks StackOverflow! Will continue to work on styling about me section. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
