@@ -39,4 +39,6 @@ Added in logo border and worked on styling and centering logo text.
 ### R1D17
 Completed logo and homepage.
 ### R1D18
-Added in content of the about me section. 
+Added in content of the about me section and worked on styling.
+### R1D19
+About Me page CSS and researched animations for tech stack portion of website. 

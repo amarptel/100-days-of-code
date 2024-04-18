@@ -145,3 +145,11 @@ Day 18: April 14th, 2024
 **Thoughts:**: Originally had multiple p tags to contain the text portion of the about me section, so I could have the correct width of the text on the page, but then added all the text into one p tag and it worked, as I just needed to set the width in CSS. Also, had a bit of trouble horizontally aligning the text and image, but through research, found how to do it! Thanks StackOverflow! Will continue to work on styling about me section. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 19: April 15th, 2024
+
+**Today's Progress**: Worked on styling of about me section and researched ways I can add my text stack.
+
+**Thoughts:**: Did quite a bit of research on how I want my tech stack to be dispalyed on my website and the animations I want to use to display them. Will continue to do more research, and hopefully start adding them in. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
