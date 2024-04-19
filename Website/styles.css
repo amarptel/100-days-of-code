@@ -222,18 +222,18 @@ body {
     padding-bottom: 100px;
 }
 
-.aboutme p {
+.aboutmecontent p {
     margin: 0;
     color:#EEEEEE;
-    font-size: 22px;
-    width: 40%;
+    font-size: 18px;
+    width: 30%;
     padding-right: 100px;
 }
 
 .mypic {
     border-radius: 50%;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
 }
 
 .aboutme h4 {
@@ -242,12 +242,26 @@ body {
     text-align: center;
 }
 
+
 .techstack {
-    border-style: solid;
-    border-color: #76ABAE;
-    padding-top: 300px;
-    padding-bottom: 300px;
-    width: 75%;
-    margin-left: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.techstackimages {
+    float: left;
+    margin-right: 1em;
+    text-align: center;
+}
+.techstackimages img{
+    width: 100px;
+    height: 100px;
+}
+
+.techstackimages p{
+    color: #EEEEEE;
+    font-size: 16px;
+    font-weight: 500;
 }
 

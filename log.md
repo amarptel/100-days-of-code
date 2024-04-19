@@ -153,3 +153,12 @@ Day 19: April 15th, 2024
 **Thoughts:**: Did quite a bit of research on how I want my tech stack to be dispalyed on my website and the animations I want to use to display them. Will continue to do more research, and hopefully start adding them in. 
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+
+Day 20: April 16th, 2024
+
+**Today's Progress**: Added SVG icons of techstack images with descriptions and was able to center the whole flexbox and the text under the images. Really didn't want to lol, but glad I did and learned a lot. 
+
+**Thoughts:**: Found that SVG icons were the best choice for the techstack images as they can be animated. Was easy to get them to display, but the difficult part was putting them in a row. Tried a few different things, before deciding that flexbox was my best option. Took a decent amount of time to center the text under the images, but was successful in that too, through research. Finally, I centered the whole techstack div. Want to continue styling the about me section and find a way to animate the techstack portion. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+

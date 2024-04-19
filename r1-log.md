@@ -42,3 +42,5 @@ Completed logo and homepage.
 Added in content of the about me section and worked on styling.
 ### R1D19
 About Me page CSS and researched animations for tech stack portion of website. 
+### R1D20
+Added svg icons to display my techstack and wrote descriptions for each image.
