@@ -162,3 +162,11 @@ Day 20: April 16th, 2024
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
 
+Day 21: April 22nd, 2024
+
+**Today's Progress**: Found a window style image slider that I really like and think would look really cool on my website. However, it seems tough to implement as there is a lot of Javascript that I don't understand. Trying to implement it now while understanding what each line of code does. 
+
+**Thoughts:**: Was in a little bit of a rut earlier, so missed a few days, but will really try to be consistent and diligent with my work. I've learned so much in the last 20 days, so I know if I continue to be consistent and give it my all everyday, I will achieve my goals. Today was mostly spent researching on how I could animate my tech stack images and I found a bay window style image slider that I really like and want on my website. It seems daunting and overwhelming, but I know if I take it one step at a time, I can get it done. Tomorrow will be spent on learning and trying to implement the window slider as well. 
+
+**Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
+

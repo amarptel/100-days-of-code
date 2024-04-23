@@ -44,3 +44,5 @@ Added in content of the about me section and worked on styling.
 About Me page CSS and researched animations for tech stack portion of website. 
 ### R1D20
 Added svg icons to display my techstack and wrote descriptions for each image.
+### R1D21
+Researched animations for my tech stack images and am in the process of trying to implement a window slider. 
