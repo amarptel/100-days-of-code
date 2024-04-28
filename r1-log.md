@@ -46,3 +46,5 @@ About Me page CSS and researched animations for tech stack portion of website.
 Added svg icons to display my techstack and wrote descriptions for each image.
 ### R1D21
 Researched animations for my tech stack images and am in the process of trying to implement a window slider. 
+### R1D22
+Played an SQL Murder Mystery game. 

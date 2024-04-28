@@ -219,7 +219,6 @@ body {
     align-items: center;
     justify-content: center;
     padding-top: 50px;
-    padding-bottom: 100px;
 }
 
 .aboutmecontent p {
@@ -236,7 +235,7 @@ body {
     height: 300px;
 }
 
-.aboutme h4 {
+h4 {
     color: #EEEEEE;
     font-size: 22px;
     text-align: center;
@@ -247,9 +246,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
-.techstackimages {
+/* .techstackimages {
     float: left;
     margin-right: 1em;
     text-align: center;
@@ -258,6 +257,7 @@ body {
 .techstackimages img{
     width: 200px;
     height: 200px;
+
 }
 
 .techstackimages p{
@@ -266,10 +266,7 @@ body {
     font-weight: 500;
 } */
 
-/* Trying to add in the window style image slider. If I want to change things 
-to how they previously were, delete the code below and uncomment the code above. */
-
-.stage, .techstackimages img{
+.stage, .techstackimages, .img {
     width: 100%;
     height: 100%;
     transform-style: preserve-3d;
@@ -278,6 +275,9 @@ to how they previously were, delete the code below and uncomment the code above.
 
 .stage {
     overflow: hidden;
+}
+svg {
+    position: absolute;
 }
 
 .techstack {
@@ -288,5 +288,3 @@ to how they previously were, delete the code below and uncomment the code above.
     top:50%;
     transform:translate(-50%,-50%);
 }
-
-

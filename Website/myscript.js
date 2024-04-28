@@ -29,3 +29,13 @@ for (let i = 0; i < nameText.length; i++) {
 //         }
 // });
 
+
+// gsap.timeline()
+//     .set('.techstackimages', { rotationY:10, cursor:'grab'})
+//     .set('.img', {
+//         rotateY: (i)=> i*36,
+//         transformOrigin: '50% 50% 500px',
+//         z: -500,
+//         backgroundImage:(i)=>
+//     })
+
