@@ -16,26 +16,17 @@ for (let i = 0; i < nameText.length; i++) {
 
 
 
-
-// // Making navbar translucent on scroll.
-// $(document).scroll(function() {
-//     var value=$(document).scrollTop();
-
-//         if (value > 50) {
-//             document.getElementById("navbar").style.opacity = 0.5;
-//             document.getElementById("letters").style.opacity = 1;
-//         } else {
-//             document.getElementById("navbar").style.opacity = 1;
-//         }
-// });
-
-
-// gsap.timeline()
-//     .set('.techstackimages', { rotationY:10, cursor:'grab'})
-//     .set('.img', {
-//         rotateY: (i)=> i*36,
-//         transformOrigin: '50% 50% 500px',
-//         z: -500,
-//         backgroundImage:(i)=>
-//     })
-
+// Make side borders around about me content disappear upon scrolling a certain 
+// number of pixels, so they do not interfere with the navbar.  
+window.onscroll = function() {
+    var verLeft = document.getElementById('verticalLeft');
+    var verRight = document.getElementById('verticalRight');
+    if ( window.scrollY > 1000) {
+        verLeft.style.borderStyle = "none"; 
+        verRight.style.borderStyle = "none"; 
+    }
+    else {
+        verLeft.style.borderLeft = "6px solid #76ABAE";
+        verRight.style.borderRight = "6px solid #76ABAE";
+    }
+};

@@ -170,3 +170,14 @@ Day 21: April 22nd, 2024
 
 **Link to work:** https://github.com/amarptel/100-days-of-code/tree/master/Website
 
+Day 22: April 27th, 2024. 
+
+**Today's Progress**: Took a break from my website and worked a bit on SQL. Played a fun game called the sql murder mystery and was able to detect who the murderer was. 
+
+**Thoughts:**: Proud of myself for coding for an hour today, but really want to get back to my website tomorrow as I've noticed when things get tough and/or I get stuck, it takes a lot for me to continue and start again. Just gotta keep chipping away and pushing through!
+
+Day 23: May 29th, 2024. 
+
+**Today's Progress**:Jeez it's been a month, but we are freaking back! Going to try and be super dedicated this time and hold myself accountable. Added in a border for my about me section and was able to make it disappear via javascript all on my own! 
+
+**Thoughts:**: Didn't really know what I wanted to work on today, but saw that my about me section where I describe myself was missing a something, so I decided to add in vertical borders, which was easy enough. I then realized they interfered with the text on my navbar upon scrolling, so I spent most of the time creating an onscroll function in JavaScript and I was able to make them disappear after a certain number of pixels have been scrolled. They also reappear when I scroll back up. Super proud of myself and this is a great building block! Remember to celebrate my wins. 

@@ -48,3 +48,5 @@ Added svg icons to display my techstack and wrote descriptions for each image.
 Researched animations for my tech stack images and am in the process of trying to implement a window slider. 
 ### R1D22
 Played an SQL Murder Mystery game. 
+### R1D23
+Added in borders for the about me description content and created a javascript function which makes them disappear or reappear upon scrolling. 

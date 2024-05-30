@@ -103,7 +103,7 @@ body {
     height: 100%;
     width: auto;
     padding-top: 250px;
-    padding-bottom: 250px;
+    padding-bottom: 260px;
     padding-left: 250px;
     text-align: left;
     font-family: 'Anek Odia', sans-serif;
@@ -201,7 +201,6 @@ body {
 .aboutme {
     background-color: #31363F;
     font-family: 'Anek Odia', sans-serif;
-    padding-bottom: 500px;
     padding-top: 50px;
 }
 
@@ -210,6 +209,20 @@ body {
     color: #EEEEEE;
     font-size: 44px;
     text-decoration: underline #76ABAE;
+}
+
+#verticalLeft {
+    border-left: 6px solid #76ABAE;
+    height: 300px;
+    position: absolute;
+    left: 15%;
+}
+
+#verticalRight {
+    border-right: 6px solid #76ABAE;
+    height: 300px;
+    position: absolute;
+    right: 15%;
 }
 
 
@@ -224,67 +237,25 @@ body {
 .aboutmecontent p {
     margin: 0;
     color:#EEEEEE;
-    font-size: 18px;
+    font-size: 20px;
     width: 30%;
     padding-right: 100px;
 }
 
 .mypic {
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    /* me3 
+    width: 200px;
+    height: 300px; */
+    width: 250px;
+    height: 375px;
+
 }
 
-h4 {
+.techstack h4 {
+    padding-top: 200px;
     color: #EEEEEE;
     font-size: 22px;
     text-align: center;
 }
 
-
-/* .techstack {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-} */
-
-/* .techstackimages {
-    float: left;
-    margin-right: 1em;
-    text-align: center;
-    padding-right: 20px;
-}
-.techstackimages img{
-    width: 200px;
-    height: 200px;
-
-}
-
-.techstackimages p{
-    color: #EEEEEE;
-    font-size: 16px;
-    font-weight: 500;
-} */
-
-.stage, .techstackimages, .img {
-    width: 100%;
-    height: 100%;
-    transform-style: preserve-3d;
-    user-select: none;
-}
-
-.stage {
-    overflow: hidden;
-}
-svg {
-    position: absolute;
-}
-
-.techstack {
-    perspective: 2000px;
-    width: 300px;
-    height: 400px;  
-    left:50%;
-    top:50%;
-    transform:translate(-50%,-50%);
-}
