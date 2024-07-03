@@ -228,34 +228,45 @@ body {
 
 .aboutmecontent {
     display: flex;
-    flex-direction: row;
+    flex-direction: row; 
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     padding-top: 50px;
-}
+}  
 
 .aboutmecontent p {
     margin: 0;
     color:#EEEEEE;
-    font-size: 20px;
     width: 30%;
-    padding-right: 100px;
+    font-size: 20px;
+    padding-right: 40px;
 }
+
 
 .mypic {
     border-radius: 50%;
-    /* me3 
-    width: 200px;
-    height: 300px; */
     width: 250px;
     height: 375px;
 
 }
 
-.techstack h4 {
-    padding-top: 200px;
+.aboutmecontent p:nth-of-type(2)
+{
     color: #EEEEEE;
-    font-size: 22px;
-    text-align: center;
+    font-size: 18px;
+}
+
+.multi-column {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    flex: 0 0 60%;
+    padding-left: 320px;
+    column-gap: -10000%;
+}
+.multi-column li {
+    color: #EEEEEE;
+    font-size: 18px;
 }
 

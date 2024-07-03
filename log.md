@@ -181,3 +181,9 @@ Day 23: May 29th, 2024.
 **Today's Progress**:Jeez it's been a month, but we are freaking back! Going to try and be super dedicated this time and hold myself accountable. Added in a border for my about me section and was able to make it disappear via javascript all on my own! 
 
 **Thoughts:**: Didn't really know what I wanted to work on today, but saw that my about me section where I describe myself was missing a something, so I decided to add in vertical borders, which was easy enough. I then realized they interfered with the text on my navbar upon scrolling, so I spent most of the time creating an onscroll function in JavaScript and I was able to make them disappear after a certain number of pixels have been scrolled. They also reappear when I scroll back up. Super proud of myself and this is a great building block! Remember to celebrate my wins. 
+
+Day 24: July 2nd, 2024. 
+
+**Today's Progress**: Learned more about flexbox and brute forced css for about me section. It's looking much better, but still need to find a way to reduce the gap between the unordered list.
+
+**Thoughts:**: Proud of myself for getting back at it and I hope this will be the start of some consistency. My about me section is looking better and I'm way more knowledgeable about flexbox! Going to try and reduce the size between the ul gaps tomorrow (today).
